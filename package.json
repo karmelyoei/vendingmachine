@@ -1,0 +1,15 @@
+{
+  "name": "vendingmachine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "devDependencies": {
+    "jest-cli": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest --verbose"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
