@@ -1,6 +1,5 @@
 # Vending machine
-This project has the simple Snack Vending Machine which has built by Javascript, css, html.
-please clone this project and run the html file through live server extension.
+This project has the simple Snack Vending Machine which has built by Javascript, css, html. inorder to run this project please clone this project and run the html file through live server extension in visual studio.
 
 ## Class Diagram
 ![Test Image 1](https://github.com/karmelyoei/vendingmachine/blob/main/assests/ClassDiagram.jpg)
